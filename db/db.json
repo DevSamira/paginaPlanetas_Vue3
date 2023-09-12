@@ -1,0 +1,54 @@
+{
+    "planetas":{
+        "mercurio": {
+            "nome": "Mercúrio",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mercury_in_color_-_Prockter07-edit1.jpg/280px-Mercury_in_color_-_Prockter07-edit1.jpg",
+            "raio": 2439.7,
+            "gravidade":  3.7 
+        },
+        "venus": {
+            "nome": "Vênus",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped2%29.jpg/800px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped2%29.jpg",
+            "raio": 2439.7,
+            "gravidade":  3.7 
+        },
+        "terra":{
+            "nome": "Terra",
+            "image": "https://static.todamateria.com.br/upload/pl/an/planetaterra-cke.jpg?auto_optimize=low",
+            "raio": 2439.7,
+            "gravidade":  3.7 
+        },
+        "marte":{
+            "nome": "Marte",
+            "image": "https://s1.static.brasilescola.uol.com.br/be/2021/11/planeta-marte.jpg",
+            "raio": 2439.7,
+            "gravidade":  3.7 
+        },
+        "jupiter":{
+            "nome": "Júpiter",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
+            "raio": 2439.7,
+            "gravidade":  3.7 
+        },
+        "saturno":{
+            "nome": "Saturno",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg",
+            "raio": 2439.7,
+            "gravidade":  3.7 
+        },
+        "urano":{
+            "nome": "Urano",
+            "image": "https://s2.static.brasilescola.uol.com.br/be/2021/04/planeta-urano.jpg",
+            "raio": 2439.7,
+            "gravidade":  3.7 
+        },
+        "netuno":{
+            "nome": "Netuno",
+            "image": "https://s4.static.brasilescola.uol.com.br/be/2022/08/1-planeta-netuno.jpg",
+            "raio": 2439.7,
+            "gravidade":  3.7 
+        }
+    }
+}
+
+
